@@ -13,6 +13,9 @@ Our project focuses on the Global Growth of Energy Usage and Types. Energy use i
   - Which countries use the most or least energy?
   - Do rich and poor countries use different types of energy?
 
+## Power BI Dashboard
+You can view our interactive dashboard here: [Global Energy Dashboard](https://app.powerbi.com/groups/me/reports/0ef9f188-e342-4138-9f56-127b9d6c960e?ctid=88d59d7d-aecb-41b2-90c5-55595de02536&pbi_source=linkShare)
+
 
 ## References
 Our World in Data (OWID), Energy Use & Energy Substitution Datasets.
