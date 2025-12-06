@@ -16,6 +16,8 @@ Our project focuses on the Global Growth of Energy Usage and Types. Energy use i
 ## Power BI Dashboard
 You can view our interactive dashboard here: [Global Energy Dashboard](https://app.powerbi.com/groups/me/reports/0ef9f188-e342-4138-9f56-127b9d6c960e?ctid=88d59d7d-aecb-41b2-90c5-55595de02536&pbi_source=linkShare)
 
+## [Technical Report Doc](https://docs.google.com/document/d/1-eyEdkLosLt3WgqTcfEc3XHxR7WS_RVrDm8XgijlM00/edit?tab=t.0)
+
 
 ## References
 Our World in Data (OWID), Energy Use & Energy Substitution Datasets.
